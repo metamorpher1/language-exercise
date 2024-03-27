@@ -1,0 +1,16 @@
+a=int(input("enter a number1:"))
+b=int(input("enter a number2:"))
+c=int(input("enter a number3:"))
+n=0
+print("before swapping:")
+print(a)
+print(b)
+print(c)
+n=a
+a=b
+b=c
+c=a
+print("after swapping")
+print(a)
+print(b)
+print(c)
