@@ -1,0 +1,2 @@
+a="python"+" "+"coder"
+print(a)
