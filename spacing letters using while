@@ -1,0 +1,6 @@
+test='new york in usa'
+n=len(test)
+i=0
+while(i<n):
+    print(test[i],end=' ')
+    i+=1
