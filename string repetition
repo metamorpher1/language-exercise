@@ -1,0 +1,2 @@
+a="python "*5
+print(a)
