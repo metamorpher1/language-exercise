@@ -1,0 +1,4 @@
+test='newyork in usa'
+index=0
+for i in test:
+    print(i,end=' ')
