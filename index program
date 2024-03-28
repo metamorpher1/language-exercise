@@ -1,0 +1,5 @@
+test='anjali'
+index=0
+for i in test:
+    print ('test[',index,']=',i)
+    index+=1
