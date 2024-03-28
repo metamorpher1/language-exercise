@@ -1,0 +1,3 @@
+#zfill
+str='6'
+print(str.zfill(10))
