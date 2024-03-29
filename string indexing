@@ -1,0 +1,3 @@
+my_string='python coder'
+first_character = my_string[0]
+print(first_character)
